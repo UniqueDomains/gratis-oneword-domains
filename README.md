@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.GRATIS one word domai
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.gratis        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.gratis        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.gratis      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.gratis  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.gratis      | available | 43       | 2%     | 5      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.GRATIS one word domai
 | abatic.gratis     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.gratis    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.gratis   | available | 50       | 1%     | 8      |           |         |         |
-| abc.gratis        | available | 102      | 41%    | 3      |           |         |         |
+| abc.gratis        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.gratis  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.gratis  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.gratis | available | 56       | 1%     | 10     |           |         |         |
