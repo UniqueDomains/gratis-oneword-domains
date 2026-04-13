@@ -78,10 +78,10 @@ print(df.head())
 | art.gratis      | premium   | $520      | $520          | 90             | 52     | 3      | namecheap           |
 | only.gratis     | available | $26.99    | $29.99        | 110            | 46     | 4      | name.com            |
 | yes.gratis      | resell    | —         | —             | 132            | 46     | 3      | Dynadot Inc         |
-| digital.gratis  | premium   | $250      | $250          | 100            | 50     | 7      | name.com            |
+| life.gratis     | premium   | $260      | $260          | 84             | 50     | 4      | namecheap           |
 | snap.gratis     | available | $26.99    | $29.99        | 90             | 46     | 4      | name.com            |
 | radio.gratis    | resell    | —         | —             | 102            | 42     | 5      | Dynadot Inc         |
-| life.gratis     | premium   | $260      | $260          | 84             | 50     | 4      | namecheap           |
+| digital.gratis  | premium   | $250      | $250          | 100            | 49     | 7      | name.com            |
 | genius.gratis   | available | $26.99    | $29.99        | 98             | 45     | 6      | name.com            |
 | english.gratis  | resell    | —         | —             | 96             | 37     | 7      | GoDaddy.com, LLC    |
 
