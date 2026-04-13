@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .gratis one-word domains from Uniq
 
 **Public extract:** 9,755 rows · **Live catalog:** 9,755 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/gratis`  
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | good.gratis     | available | $26.99    | $29.99        | 82             | 55     | 4      | name.com            |
 | open.gratis     | resell    | —         | —             | 106            | 60     | 4      | Dynadot Inc         |
 | ace.gratis      | premium   | $26       | $26           | 88             | 57     | 3      | namecheap           |
-| alpha.gratis    | available | $26.99    | $29.99        | 90             | 54     | 5      | name.com            |
+| alpha.gratis    | available | $26.99    | $29.99        | 90             | 53     | 5      | name.com            |
 | cloud.gratis    | resell    | —         | —             | 70             | 59     | 5      | Tucows Domains Inc. |
 | live.gratis     | premium   | $500      | $500          | 108            | 56     | 4      | name.com            |
 | true.gratis     | available | $26.99    | $29.99        | 86             | 52     | 4      | name.com            |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GRATIS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GRATIS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
