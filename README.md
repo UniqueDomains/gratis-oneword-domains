@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gratis one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,719 domains · **Median ask:** $30.51 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/gratis`  
 **Best for:** founders, investors, studios
 
@@ -71,7 +71,7 @@ print(df.head())
 | matcha.gratis  | available | $26.99    | —             | 86             | 39     | 6      | name.com  |
 | Tools.gratis   | premium   | $280      | $280          | 56             | 40     | 5      | namecheap |
 | lets.gratis    | available | $26.99    | —             | 77             | 39     | 4      | name.com  |
-| comics.gratis  | premium   | $26.99    | —             | 68             | 24     | 6      | name.com  |
+| comics.gratis  | premium   | $26.99    | —             | 68             | 23     | 6      | name.com  |
 | stories.gratis | available | $26.99    | —             | 58             | 36     | 7      | name.com  |
 | pros.gratis    | premium   | $23.60    | $23.60        | 53             | 23     | 4      | namesilo  |
 | spectra.gratis | available | $26.99    | —             | 62             | 34     | 7      | name.com  |
@@ -82,7 +82,7 @@ print(df.head())
 | calls.gratis   | premium   | $250      | —             | 50             | 16     | 5      | name.com  |
 | maps.gratis    | available | $26.99    | —             | 56             | 31     | 4      | name.com  |
 | lives.gratis   | premium   | $26.99    | —             | 64             | 15     | 5      | name.com  |
-| popup.gratis   | available | $26.99    | —             | 84             | 29     | 6      | name.com  |
+| blocks.gratis  | available | $26.99    | —             | 53             | 29     | 6      | name.com  |
 | samples.gratis | premium   | $41.25    | —             | 60             | 12     | 7      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GRATIS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GRATIS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
