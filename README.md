@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .gratis one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,719 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,719 domains · **Median ask:** $30.51 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,719 domains · **Median ask:** $29.45 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/gratis`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/gratis`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .GRATIS one-word domai
 
 ### Files
 
-- `gratis.csv` — public CSV extract (1,000 rows)
-- `gratis.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `gratis.csv`, public CSV extract (1,000 rows)
+- `gratis.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| skills.gratis  | available | $26.99    | —             | 58             | 47     | 6      | name.com  |
-| Books.gratis   | premium   | $138.60   | $138.60       | 52             | 49     | 5      | namecheap |
-| Ryan.gratis    | available | $31.98    | —             | 60             | 44     | 4      | namecheap |
-| cars.gratis    | premium   | $250      | —             | 66             | 47     | 4      | name.com  |
-| matcha.gratis  | available | $26.99    | —             | 86             | 39     | 6      | name.com  |
-| Tools.gratis   | premium   | $280      | $280          | 56             | 40     | 5      | namecheap |
-| lets.gratis    | available | $26.99    | —             | 77             | 39     | 4      | name.com  |
-| comics.gratis  | premium   | $26.99    | —             | 68             | 23     | 6      | name.com  |
-| stories.gratis | available | $26.99    | —             | 58             | 36     | 7      | name.com  |
-| pros.gratis    | premium   | $23.60    | $23.60        | 53             | 23     | 4      | namesilo  |
-| spectra.gratis | available | $26.99    | —             | 62             | 34     | 7      | name.com  |
-| icons.gratis   | premium   | $26.99    | —             | 68             | 19     | 5      | name.com  |
-| Cats.gratis    | available | $31.98    | —             | 59             | 33     | 4      | namecheap |
-| shows.gratis   | premium   | $26.99    | —             | 66             | 16     | 5      | name.com  |
-| teams.gratis   | available | $26.99    | —             | 62             | 32     | 5      | name.com  |
-| calls.gratis   | premium   | $250      | —             | 50             | 16     | 5      | name.com  |
-| maps.gratis    | available | $26.99    | —             | 56             | 31     | 4      | name.com  |
-| lives.gratis   | premium   | $26.99    | —             | 64             | 15     | 5      | name.com  |
-| blocks.gratis  | available | $26.99    | —             | 53             | 29     | 6      | name.com  |
-| samples.gratis | premium   | $41.25    | —             | 60             | 12     | 7      | name.com  |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| CNN.gratis   | available | $23.99    | $23.99        | high           | low    | 3      | namesilo            |
+| cloud.gratis | resell    | —         | —             | high           | medium | 5      | Tucows Domains Inc. |
+| bag.gratis   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
+| nan.gratis   | available | $26.99    | —             | high           | low    | 3      | name.com            |
+| boo.gratis   | premium   | $26.99    | —             | high           | low    | 3      | name.com            |
+| sip.gratis   | available | $23.99    | $23.99        | medium         | low    | 3      | namesilo            |
+| bus.gratis   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
+| yur.gratis   | available | $23.99    | $23.99        | high           | low    | 3      | namesilo            |
+| but.gratis   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
+| babe.gratis  | available | $23.99    | $23.99        | high           | low    | 4      | namesilo            |
+| cry.gratis   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
+| bars.gratis  | available | $23.99    | $23.99        | high           | low    | 4      | namesilo            |
+| dna.gratis   | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo            |
+| bass.gratis  | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo            |
+| eat.gratis   | premium   | $242      | $242          | high           | low    | 3      | namesilo            |
+| brow.gratis  | available | $26.99    | —             | medium         | low    | 4      | name.com            |
+| fan.gratis   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
+| came.gratis  | available | $23.99    | $23.99        | high           | low    | 4      | namesilo            |
+| fee.gratis   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
+| choc.gratis  | available | $23.99    | $23.99        | high           | low    | 4      | namesilo            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely one-word .gratis domains. That makes it specific: the strongest names are the ones where the word gains meaning from “gratis,” not just from the word alone. Terms like affiliate.gratis or engineer.gratis can suit free tools, lead magnets, communities, or promotional offers. Generic words with weak fit to free access may be less compelling, even at a low ask. When comparing these domains, focus first on semantic fit, then on memorability, spelling clarity, and whether the term creates avoidable trademark risk. The median ask is 30.51, so the main decision is usually relevance and resale realism, not headline price.
+This list covers 12,719 one-word domain names using the .gratis extension, with a median asking price near $29. The set includes everyday nouns, verbs, and short phrases — from FabFour.gratis and matcha.gratis to primarycare.gratis and landscaping.gratis — spanning food, lifestyle, health, and service-oriented themes. Because .gratis is a lower-cost, less mainstream extension, pricing stays accessible, but resale history and buyer demand are still building. When comparing these domains, weigh word clarity and memorability against renewal cost and long-term trademark risk before committing.
 
-- Best when the word naturally fits “free” positioning
-- Median ask is 30.51 across 12,719 domains
-- Clear words beat awkward long terms for recall
-- Check trademark exposure before treating a name as ownable
+- 12,719 one-word .gratis domains in this set — updated daily
+- Median ask near $29 keeps entry cost low for early buyers
+- Everyday words and short phrases: matcha, dogsit, getlife, presents
+- Limited resale history — evaluate renewal cost before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GRATIS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GRATIS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
