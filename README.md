@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gratis one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,683 domains · **Median ask:** $27.45 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/gratis`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| azo.gratis   | available | $23.99    | $23.99        | low            | low    | 3      | namesilo            |
-| cloud.gratis | resell    | —         | —             | high           | medium | 5      | Tucows Domains Inc. |
-| ape.gratis   | premium   | $23.60    | $23.60        | medium         | low    | 3      | namesilo            |
-| CNN.gratis   | available | $23.99    | $23.99        | high           | low    | 3      | namesilo            |
-| aug.gratis   | premium   | $23.60    | $23.60        | low            | low    | 3      | namesilo            |
-| liv.gratis   | available | $23.99    | $23.99        | low            | low    | 3      | namesilo            |
-| bag.gratis   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
-| lxi.gratis   | available | $23.99    | $23.99        | low            | low    | 3      | namesilo            |
-| boo.gratis   | premium   | $26.99    | —             | high           | low    | 3      | name.com            |
-| nan.gratis   | available | $26.99    | —             | high           | low    | 3      | name.com            |
-| bus.gratis   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
-| sip.gratis   | available | $23.99    | $23.99        | medium         | low    | 3      | namesilo            |
-| but.gratis   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
-| xci.gratis   | available | $24.98    | $31.98        | low            | low    | 3      | namecheap           |
-| cry.gratis   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
-| yur.gratis   | available | $23.99    | $23.99        | high           | low    | 3      | namesilo            |
-| dna.gratis   | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo            |
-| aery.gratis  | available | $23.99    | $23.99        | low            | low    | 4      | namesilo            |
-| eat.gratis   | premium   | $242      | $242          | high           | low    | 3      | namesilo            |
-| arid.gratis  | available | $24.98    | $31.98        | low            | low    | 4      | namecheap           |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| christmas.gratis | premium   | $118.80   | $118.80       | high           | low    | 9      | namesilo            |
+| come.gratis      | available | $23.99    | $23.99        | high           | low    | 4      | namesilo            |
+| action.gratis    | available | $23.99    | $23.99        | high           | medium | 6      | namesilo            |
+| azo.gratis       | available | $23.99    | $23.99        | low            | low    | 3      | namesilo            |
+| cloud.gratis     | resell    | —         | —             | high           | medium | 5      | Tucows Domains Inc. |
+| ape.gratis       | premium   | $23.60    | $23.60        | medium         | low    | 3      | namesilo            |
+| CNN.gratis       | available | $23.99    | $23.99        | high           | low    | 3      | namesilo            |
+| aug.gratis       | premium   | $23.60    | $23.60        | low            | low    | 3      | namesilo            |
+| liv.gratis       | available | $23.99    | $23.99        | low            | low    | 3      | namesilo            |
+| bag.gratis       | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
+| lxi.gratis       | available | $23.99    | $23.99        | low            | low    | 3      | namesilo            |
+| boo.gratis       | premium   | $26.99    | —             | high           | low    | 3      | name.com            |
+| nan.gratis       | available | $26.99    | —             | high           | low    | 3      | name.com            |
+| bus.gratis       | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
+| sip.gratis       | available | $23.99    | $23.99        | medium         | low    | 3      | namesilo            |
+| but.gratis       | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
+| xci.gratis       | available | $24.98    | $31.98        | low            | low    | 3      | namecheap           |
+| cry.gratis       | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
+| yur.gratis       | available | $23.99    | $23.99        | high           | low    | 3      | namesilo            |
+| dna.gratis       | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GRATIS One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GRATIS One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
