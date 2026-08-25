@@ -1,10 +1,10 @@
-# Available .GRATIS One-Word Domains (19,376)
+# Available .GRATIS One-Word Domains (19,958)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C376%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C958%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .gratis one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **19,376 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **19,958 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 19,376 domains · **Median ask:** $27.21 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 19,958 domains · **Median ask:** $27.12 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/gratis`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| christmas.gratis | premium   | $118.80   | $118.80       | high           | low    | 9      | namesilo            |
-| come.gratis      | available | $23.99    | $23.99        | high           | low    | 4      | namesilo            |
-| azo.gratis       | available | $23.99    | $23.99        | low            | low    | 3      | namesilo            |
-| cloud.gratis     | resell    | —         | —             | high           | medium | 5      | Tucows Domains Inc. |
-| ape.gratis       | premium   | $23.60    | $23.60        | medium         | low    | 3      | namesilo            |
-| CNN.gratis       | available | $23.99    | $23.99        | high           | low    | 3      | namesilo            |
-| aug.gratis       | premium   | $23.60    | $23.60        | low            | low    | 3      | namesilo            |
-| liv.gratis       | available | $23.99    | $23.99        | low            | low    | 3      | namesilo            |
-| bag.gratis       | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
-| lxi.gratis       | available | $23.99    | $23.99        | low            | low    | 3      | namesilo            |
-| boo.gratis       | premium   | $26.99    | —             | high           | low    | 3      | name.com            |
-| nan.gratis       | available | $26.99    | —             | high           | low    | 3      | name.com            |
-| bus.gratis       | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
-| sip.gratis       | available | $23.99    | $23.99        | medium         | low    | 3      | namesilo            |
-| but.gratis       | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
-| xci.gratis       | available | $24.98    | $31.98        | low            | low    | 3      | namecheap           |
-| cry.gratis       | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
-| yur.gratis       | available | $23.99    | $23.99        | high           | low    | 3      | namesilo            |
-| dna.gratis       | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo            |
-| aery.gratis      | available | $23.99    | $23.99        | low            | low    | 4      | namesilo            |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| azo.gratis   | available | $23.99    | $23.99        | low            | low    | 3      | namesilo            |
+| cloud.gratis | resell    | —         | —             | high           | medium | 5      | Tucows Domains Inc. |
+| ape.gratis   | premium   | $23.60    | $23.60        | medium         | low    | 3      | namesilo            |
+| CNN.gratis   | available | $23.99    | $23.99        | high           | low    | 3      | namesilo            |
+| aug.gratis   | premium   | $23.60    | $23.60        | low            | low    | 3      | namesilo            |
+| liv.gratis   | available | $23.99    | $23.99        | low            | low    | 3      | namesilo            |
+| bag.gratis   | premium   | $23.60    | $23.60        | medium         | low    | 3      | namesilo            |
+| lxi.gratis   | available | $23.99    | $23.99        | low            | low    | 3      | namesilo            |
+| boo.gratis   | premium   | $26.99    | —             | high           | low    | 3      | name.com            |
+| nan.gratis   | available | $26.99    | —             | high           | low    | 3      | name.com            |
+| bus.gratis   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
+| sip.gratis   | available | $23.99    | $23.99        | medium         | low    | 3      | namesilo            |
+| but.gratis   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
+| xci.gratis   | available | $24.98    | $31.98        | low            | low    | 3      | namecheap           |
+| cry.gratis   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
+| yur.gratis   | available | $23.99    | $23.99        | high           | low    | 3      | namesilo            |
+| dna.gratis   | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo            |
+| aery.gratis  | available | $23.99    | $23.99        | low            | low    | 4      | namesilo            |
+| eat.gratis   | premium   | $242      | $242          | high           | low    | 3      | namesilo            |
+| arid.gratis  | available | $24.98    | $31.98        | low            | low    | 4      | namecheap           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 19,376 live domains                        |
+| 1,000-row public sample | 19,958 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GRATIS One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GRATIS One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
