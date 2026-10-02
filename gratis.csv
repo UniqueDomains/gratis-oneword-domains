@@ -1,22 +1,24 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 4a2e47a8-6e85-4d59-8fe2-8f8a8f039dbb,pregnant.gratis,available,26.99,29.99,high,low,8,name.com,,,25/09/2026 18:23
-a54cb3e4-b029-4267-ba90-8f3d9232dd6a,satisfactory.gratis,available,23.99,23.99,high,low,12,namesilo,,,
+a54cb3e4-b029-4267-ba90-8f3d9232dd6a,satisfactory.gratis,available,24.98,31.98,high,low,12,namecheap,,,01/10/2026 10:29
 c6f14940-7506-457d-8792-29c420d75c46,pedestrian.gratis,available,23.99,23.99,high,low,10,namesilo,,,08/09/2026 12:28
 767e1227-fe4c-4b72-a82a-5ddb37255a86,circling.gratis,available,18.83,18.83,high,low,8,spaceship,,,30/09/2026 07:20
 3a6ed8a4-d814-4d73-8951-4d0e4c4d7e7b,wetter.gratis,available,24.98,31.98,high,low,6,namecheap,,,22/09/2026 23:07
 a203d9aa-4ade-42db-bbf9-be8cbfbfa279,carousing.gratis,available,23.99,23.99,medium,low,9,namesilo,,,08/08/2026 04:24
-dd1ece83-bb84-4e6f-99bd-cedafef67568,disregarded.gratis,available,23.99,23.99,medium,low,11,namesilo,,,
 e9ae5862-32a6-454d-a7f8-a7db46101741,midlife.gratis,available,23.99,23.99,high,low,8,namesilo,,,
 38cf34e9-b1fc-40aa-8695-dc782a4481bd,tagore.gratis,available,23.99,23.99,medium,low,6,namesilo,,,30/09/2026 02:38
 52b70c5e-402b-4799-9715-40f044f293a0,fame.gratis,available,19.48,19.48,high,low,4,dynadot,,,28/09/2026 07:34
 33fe55bc-f024-45c4-abb3-c27624ecfcb8,cadmium.gratis,available,23.99,23.99,high,low,7,namesilo,,,11/08/2026 22:59
 50a06c56-ac6a-448c-9dda-f3612efcc7cf,ordering.gratis,available,19.05,19.05,high,low,8,porkbun,,,27/09/2026 15:05
 e1b55f06-e2ea-425b-bbfc-e4294a35cdf0,crap.gratis,available,18.2,18.2,medium,low,4,cloudflare,,,29/09/2026 05:21
+72440aef-4d59-45eb-a63d-67c415007576,pensions.gratis,available,19.48,19.48,high,low,8,dynadot,,,02/10/2026 02:45
 9675aa02-fb84-4244-a82e-4e0917d6ab63,hungry.gratis,available,23.99,23.99,high,low,6,namesilo,,,25/09/2026 06:41
 91a9c9cf-2667-4c1f-917f-6d60d19fe6a0,trek.gratis,available,23.99,23.99,high,low,4,namesilo,,,29/09/2026 02:22
 90212303-6f97-4b31-9ba9-f269dfc49255,knockdown.gratis,available,23.99,23.99,medium,low,9,namesilo,,,22/08/2026 16:34
+664a7dbc-8072-4fbc-a3fc-259005dbc618,pulses.gratis,available,18.2,18.2,high,low,6,cloudflare,,,01/10/2026 17:55
 f8211299-92f5-4982-ae33-48385fdd1333,premier.gratis,available,23.99,23.99,high,low,7,namesilo,,,27/09/2026 04:55
 6802a27b-620d-4e2d-9615-725e64638051,arise.gratis,available,23.99,23.99,high,low,5,namesilo,,,28/09/2026 10:48
+b831774a-4445-40db-a89f-7bbbb5a71c30,neurosurgery.gratis,available,18.83,18.83,high,low,12,spaceship,,,02/10/2026 02:09
 e9633793-d05e-4403-9fbd-10efcb93e94b,regards.gratis,available,18.2,18.2,medium,low,7,cloudflare,,,28/09/2026 12:38
 7ae82828-5634-4e0d-a749-a971ae37c7d7,bespoken.gratis,available,23.99,23.99,medium,low,8,namesilo,,,09/08/2026 17:31
 5ebcf5b5-e4fb-4622-8366-242af2f651e5,abstracter.gratis,available,24.98,31.98,medium,low,10,namecheap,,,16/09/2026 18:30
@@ -25,6 +27,7 @@ cc6e37f2-a62d-4382-8335-fdd127e28002,platt.gratis,available,24.98,31.98,medium,l
 f81220c2-e04d-4731-80a4-1adba5c7c115,hussain.gratis,available,19.48,19.48,medium,low,7,dynadot,,,29/09/2026 09:29
 989e838b-a952-4da3-bdaa-b92b6ef1be16,rummy.gratis,available,23.99,23.99,high,low,5,namesilo,,,13/08/2026 11:16
 1b4c3015-6e85-4fa8-9d78-80f2787a5bab,azolla.gratis,available,23.99,23.99,medium,low,6,namesilo,,,21/09/2026 11:19
+cf22348d-52c1-4eca-a3db-3fe79cdfe293,ruggles.gratis,available,18.83,18.83,medium,low,7,spaceship,,,01/10/2026 10:32
 8fae5843-d107-485e-87c6-81be057ab44e,ndp.gratis,available,23.99,23.99,high,low,3,namesilo,,,29/09/2026 09:39
 9b1c3e4f-e33c-455e-b353-733a920475d2,exogenic.gratis,available,23.99,23.99,medium,low,8,namesilo,,,17/08/2026 17:34
 d90b83a8-108a-4dea-b3e0-45c88e4a647f,wordy.gratis,available,23.99,23.99,medium,low,5,namesilo,,,24/08/2026 09:32
@@ -38,7 +41,7 @@ d90b83a8-108a-4dea-b3e0-45c88e4a647f,wordy.gratis,available,23.99,23.99,medium,l
 d7eac9dc-fe0c-48d4-98a1-1d67b5d3b50b,plodder.gratis,available,24.98,31.98,medium,low,7,namecheap,,,10/09/2026 20:23
 8fa22241-8e2f-45e8-9e8e-03959d3f22e0,deceived.gratis,available,18.83,18.83,low,low,8,spaceship,,,29/09/2026 23:13
 aef7c7e5-d939-41dc-8a77-503a6046fb07,virulent.gratis,available,23.99,23.99,medium,low,8,namesilo,,,
-1fd1716b-2172-43f5-a1ea-3f8d84554529,ann.gratis,premium,23.6,23.6,high,low,3,namesilo,,,
+1fd1716b-2172-43f5-a1ea-3f8d84554529,ann.gratis,available,23.6,23.6,high,low,3,namesilo,,,01/10/2026 09:27
 8f60ee4a-76af-458a-9e33-5eb6ae050484,garbanzo.gratis,available,24.98,31.98,medium,low,8,namecheap,,,24/09/2026 14:31
 7816beb6-bbe5-42ea-8886-96ba6fff7458,salubrious.gratis,available,23.99,23.99,high,low,10,namesilo,,,20/08/2026 16:33
 076a26fb-e034-4fb3-bfd3-bbe27d4fd403,untrustworthy.gratis,available,23.99,23.99,medium,low,13,namesilo,,,
@@ -64,12 +67,13 @@ abdbaf89-5378-421a-97b5-07f3abc1877e,slanting.gratis,available,23.99,23.99,mediu
 52a0470e-d6bf-4ada-8202-31e2f6ce171d,extra.gratis,premium,23.6,23.6,high,low,5,namesilo,,,21/09/2026 17:12
 d8661dc6-3880-4c03-9f02-f2eacfd71824,rockville.gratis,available,18.83,18.83,medium,low,9,spaceship,,,28/09/2026 16:09
 2e78f68d-f1ac-4401-800b-285c3bc836bf,case.gratis,available,23.6,23.6,high,low,4,namesilo,,,29/09/2026 07:33
+c8415759-a4f6-47fa-99e5-388430ed919f,forefront.gratis,available,23.99,23.99,high,low,9,namesilo,,,02/10/2026 04:32
 e4354660-9ec8-48b5-b610-33530d4097e4,booming.gratis,available,24.98,31.98,high,low,7,namecheap,,,10/08/2026 19:14
 ebc3425e-d10e-40c7-8026-0fe2e321acb3,shaped.gratis,available,23.99,23.99,high,low,6,namesilo,,,25/08/2026 03:44
 6bc41812-18bd-4a7b-82f4-9fcca4cffd96,abilities.gratis,available,23.99,23.99,high,low,9,namesilo,,,17/09/2026 04:45
 53e0021c-7622-4c45-961e-0958eb12d198,assemble.gratis,available,19.48,19.48,high,low,8,dynadot,,,28/09/2026 09:53
 518d1933-111e-4b7b-877b-3182f0092874,leaded.gratis,available,23.99,23.99,medium,low,6,namesilo,,,22/08/2026 21:42
-98bbf518-b511-4e95-8011-373df6890530,seeming.gratis,available,23.99,23.99,high,low,7,namesilo,,,
+98bbf518-b511-4e95-8011-373df6890530,seeming.gratis,available,19.48,19.48,high,low,7,dynadot,,,01/10/2026 18:12
 df80a2cd-aeff-4896-b650-2ea273c2570a,lightless.gratis,available,23.99,23.99,medium,low,9,namesilo,,,23/08/2026 04:36
 86137a1f-9319-4da5-ad99-3d7ee0decd1c,ovate.gratis,available,24.98,31.98,medium,low,5,namecheap,,,15/08/2026 18:03
 97aaffa2-8cfc-4f66-9973-830c10d3d7d8,wieldy.gratis,available,23.99,23.99,medium,low,6,namesilo,,,13/09/2026 11:52
@@ -111,6 +115,7 @@ d283ee6b-9f61-4bcc-ae66-67d8e1565676,russians.gratis,available,24.98,31.98,mediu
 0f7c7ca0-f8c1-466c-aa3e-3909161636db,bungalow.gratis,available,23.99,23.99,high,low,8,namesilo,,,24/09/2026 11:15
 17147a6f-ce10-4844-b590-b19a1ab50375,salah.gratis,available,18.83,18.83,high,low,5,spaceship,,,30/09/2026 18:35
 2e9eacf4-9054-4fd0-b762-ccbd5c7760fc,grams.gratis,available,23.99,23.99,high,low,5,namesilo,,,18/09/2026 05:03
+06625f22-e152-40d2-ae93-addd30a7a8b4,herefordshire.gratis,available,23.99,23.99,medium,low,13,namesilo,,,01/10/2026 07:50
 75c6f817-8a0e-4bc7-9722-b20b2a96babd,asexually.gratis,available,23.99,23.99,medium,low,9,namesilo,,,13/09/2026 22:03
 d23417a7-d42b-4848-9c0d-2c519fcd1773,unconditional.gratis,available,18.2,18.2,high,low,13,cloudflare,,,30/09/2026 03:39
 00946434-1078-4874-8cac-a255e92c0f40,asdic.gratis,available,23.99,23.99,medium,low,5,namesilo,,,20/09/2026 13:30
@@ -119,6 +124,7 @@ b5411731-eabd-4a9f-b16e-4fb669d551a8,azygous.gratis,available,23.99,23.99,medium
 a1884910-c98e-4a9d-aa4d-7b9702442d1c,pins.gratis,available,23.99,23.99,high,low,4,namesilo,,,18/09/2026 08:25
 abd6fb9d-34ce-41ce-a655-fb742bb7c0f2,atreus.gratis,available,23.99,23.99,medium,low,6,namesilo,,,21/09/2026 00:43
 2da3825d-b638-4cec-b1df-1794ed0a8540,oran.gratis,available,23.99,23.99,high,low,4,namesilo,,,29/09/2026 07:47
+74257bfb-8f3a-4ace-aace-ccdc84aa7e07,cana.gratis,available,18.83,18.83,high,low,4,spaceship,,,01/10/2026 23:47
 4e1b2e5c-e23c-46aa-9bfd-d6364b283566,storrs.gratis,available,18.2,18.2,medium,low,6,cloudflare,,,30/09/2026 22:16
 a610935c-3209-43ff-8cc7-a5f813772fd1,him.gratis,premium,26,26,high,low,3,namecheap,,,30/09/2026 22:23
 47c0a4b6-1595-4793-a725-fee8c9cac56b,namibian.gratis,available,23.99,23.99,high,low,8,namesilo,,,03/09/2026 12:58
@@ -133,6 +139,7 @@ e16b0651-e3a1-4f2b-8da2-84badf8805a3,mailing.gratis,available,23.6,23.6,high,low
 f8edd592-a97c-49d1-99e4-2784244b9552,carlton.gratis,available,24.98,31.98,high,low,7,namecheap,,,25/09/2026 15:21
 fbd05ebb-e13f-4c41-806f-36de675f33c5,paced.gratis,available,23.99,23.99,medium,low,5,namesilo,,,18/09/2026 10:44
 eca3f98b-627d-4cae-951b-42fcb4a22bdd,joined.gratis,available,23.99,23.99,high,low,6,namesilo,,,25/09/2026 11:54
+0778289a-f31d-4c8a-91ed-5194e58d09f0,vienne.gratis,available,19.48,19.48,medium,low,6,dynadot,,,02/10/2026 04:28
 c7b167e8-d937-4031-8e8a-5d5fb27842ea,stack.gratis,available,23.99,23.99,high,medium,5,namesilo,,,25/08/2026 00:45
 2f0e99a4-1e6e-4336-8170-222f7d9486cd,themes.gratis,premium,,,medium,low,6,,,,30/09/2026 06:34
 f198791a-198d-4fc1-be49-cb165d4f073e,ryan.gratis,available,23.99,23.99,high,medium,4,namesilo,,,17/09/2026 00:32
@@ -149,6 +156,7 @@ dc62f6c2-2021-49ec-82c1-9ccb556b146d,fallacious.gratis,available,24.98,31.98,med
 853c1617-ad3c-4589-b1c6-6daf0b4bf836,chandler.gratis,available,18.2,18.2,high,low,8,cloudflare,,,30/09/2026 01:02
 e1fb0ebc-f014-4e5c-aa81-6d463beee8b2,relay.gratis,available,18.83,18.83,high,medium,5,spaceship,,,28/09/2026 09:35
 ee241c58-2b95-430b-81b3-e5542188c7b8,killingly.gratis,available,23.99,23.99,low,low,9,namesilo,,,15/09/2026 10:22
+6940acbf-ff72-4501-9e09-7556a1686f3e,macfarlane.gratis,available,23.99,23.99,medium,low,10,namesilo,,,01/10/2026 07:10
 e6e081ec-6654-4573-a133-37a544319a79,ashlar.gratis,available,23.99,23.99,high,low,6,namesilo,,,20/09/2026 13:55
 72fa15c3-5c84-4988-ba97-ef81c862ae75,laurels.gratis,available,23.99,23.99,high,low,7,namesilo,,,16/09/2026 22:48
 a2f6d98f-b8d7-46d1-84a7-a7db645b1c3b,flower.gratis,available,24.98,31.98,high,low,6,namecheap,,,24/09/2026 20:16
@@ -186,6 +194,7 @@ d058ff7a-1827-4d63-8f55-491145c18ebb,ambassadors.gratis,available,18.2,18.2,medi
 4e6b627e-ffa3-462e-ac42-0435548e1532,warden.gratis,available,18.83,18.83,high,low,6,spaceship,,,27/09/2026 16:17
 ed12faa3-4527-4be5-a463-d52034bc298d,amazons.gratis,available,23.99,23.99,medium,low,7,namesilo,,,21/09/2026 05:29
 2e18c00a-4c3b-4b4f-81c6-1e56f6b6a014,mornings.gratis,available,23.99,23.99,high,low,8,namesilo,,,20/09/2026 04:12
+624a66a1-347c-488e-aadc-d6ac10754bb8,cpm.gratis,available,18.83,18.83,high,low,3,spaceship,,,01/10/2026 05:17
 2fed0154-1664-4abc-91dc-f283064f2854,probation.gratis,available,18.83,18.83,high,low,9,spaceship,,,28/09/2026 10:46
 21566a20-0382-45a9-9ad2-a217ed084696,stieglitz.gratis,available,23.99,23.99,medium,low,9,namesilo,,,18/09/2026 06:45
 67ca3979-8587-4c52-bf9f-92b022560a77,evenly.gratis,available,23.99,23.99,medium,low,6,namesilo,,,14/09/2026 16:30
@@ -235,6 +244,7 @@ f092b90f-f8ac-4eb3-9b78-f34999c20260,spending.gratis,available,23.99,23.99,high,
 48970038-edc4-4a1f-a928-05de1bcf77ff,acrylate.gratis,available,23.99,23.99,medium,low,8,namesilo,,,17/09/2026 04:05
 ba9c0f5a-94f5-4b65-8f3d-2a065ed94fff,absolutism.gratis,available,24.98,31.98,medium,low,10,namecheap,,,16/09/2026 18:00
 d6339417-28fa-4089-b08f-2123f8e4e44f,gladiolus.gratis,available,23.99,23.99,high,low,9,namesilo,,,19/08/2026 00:06
+60dbd856-53c5-45be-8032-c7ca95f43f8e,constrained.gratis,available,19.05,19.05,high,low,11,porkbun,,,01/10/2026 22:42
 cbfed9d9-5284-4846-8bda-95252752fe10,foaming.gratis,available,23.99,23.99,high,low,7,namesilo,,,11/08/2026 07:18
 efcd5d63-72d4-47bb-84be-31d1dd69afbe,entering.gratis,available,23.99,23.99,high,low,8,namesilo,,,22/08/2026 01:48
 7f9d9c58-166c-462f-8778-fc19cada1a1c,steinbeck.gratis,available,19.48,19.48,high,low,9,dynadot,,,01/10/2026 02:45
@@ -245,7 +255,6 @@ efcd5d63-72d4-47bb-84be-31d1dd69afbe,entering.gratis,available,23.99,23.99,high,
 b35fcb4f-7d8c-4511-bfa4-c8a98d2052ce,python.gratis,available,23.99,23.99,high,low,6,namesilo,,,29/09/2026 13:44
 c8048ef7-ab4e-43c6-91b4-e1341adf5633,delineated.gratis,available,23.99,23.99,medium,low,10,namesilo,,,14/08/2026 00:37
 544671f6-7e7a-412f-b609-1d57699524aa,fca.gratis,available,18.2,18.2,high,low,3,cloudflare,,,30/09/2026 19:55
-615df275-2a7f-435a-a83c-60822a3ffbc0,saddening.gratis,available,23.99,23.99,medium,low,9,namesilo,,,
 8d36bab6-2651-43aa-9566-31fb12690223,leinster.gratis,available,18.2,18.2,medium,low,8,cloudflare,,,29/09/2026 09:29
 adfd20af-adcc-4d49-89fb-1f67339086f0,perdurable.gratis,available,23.99,23.99,medium,low,10,namesilo,,,08/09/2026 16:24
 350951bb-252f-4b43-9e98-3ab21d67f007,culinary.gratis,available,24.98,31.98,high,low,8,namecheap,,,19/09/2026 15:04
@@ -253,7 +262,7 @@ adfd20af-adcc-4d49-89fb-1f67339086f0,perdurable.gratis,available,23.99,23.99,med
 09d2ed42-72a8-44cd-a124-4d23db1731af,abeyant.gratis,available,23.99,23.99,medium,low,7,namesilo,,,
 5a4c9771-9820-4a39-9892-31689257743d,amass.gratis,available,23.99,23.99,high,low,5,namesilo,,,12/08/2026 16:53
 8fa5c593-aca2-41e1-ad3e-b5f9d76d7b4d,doomed.gratis,available,23.99,23.99,medium,low,6,namesilo,,,14/08/2026 15:57
-efe456b3-999c-4fa7-b404-aff003f05ef0,technology.gratis,available,18.2,18.2,high,low,10,cloudflare,,,30/09/2026 12:27
+efe456b3-999c-4fa7-b404-aff003f05ef0,technology.gratis,available,23.99,23.99,high,low,10,namesilo,,,01/10/2026 14:19
 f66db5eb-1e5a-4e85-aa43-1bc06c799882,helping.gratis,available,18.2,18.2,high,low,7,cloudflare,,,29/09/2026 22:38
 3255eafd-59de-4054-bcee-e73efbc91c36,cmos.gratis,available,23.99,23.99,medium,low,4,namesilo,,,29/09/2026 04:59
 fcf6dad2-425d-46a1-999b-4dbf29414b75,abode.gratis,available,23.99,23.99,high,low,5,namesilo,,,16/09/2026 16:25
@@ -291,10 +300,12 @@ a4f2f725-1979-423a-8aa5-524ca932243d,bombing.gratis,available,19.48,19.48,medium
 9be10b4f-273e-4f13-b46d-9c874235722d,gall.gratis,available,23.99,23.99,medium,low,4,namesilo,,,23/09/2026 15:42
 ddffe1b9-8fe2-486e-8ed9-03591f032077,karen.gratis,available,23.99,23.99,high,low,5,namesilo,,,25/09/2026 08:08
 c855a818-b8d3-434a-ad7f-c3665b8dde7e,existence.gratis,available,23.99,23.99,high,low,9,namesilo,,,28/09/2026 10:53
-488f56a0-a45e-4a87-89a8-52ddf8b2a5eb,buy.gratis,premium,42.9,42.9,high,medium,3,namecheap,,,28/09/2026 15:25
+488f56a0-a45e-4a87-89a8-52ddf8b2a5eb,buy.gratis,premium,38.94,38.94,high,medium,3,namesilo,,,01/10/2026 08:07
 d823ad6d-e8e7-4892-bb76-bcf0584034ef,homelike.gratis,available,23.99,23.99,medium,low,8,namesilo,,,21/08/2026 11:03
 f8679f30-7769-4c93-a927-1cfd180964c2,blanche.gratis,available,23.99,23.99,medium,low,7,namesilo,,,26/09/2026 03:36
 e924f955-2c6a-4d8e-9719-1a3440a31a00,scenario.gratis,available,18.2,18.2,high,low,8,cloudflare,,,28/09/2026 06:43
+a3162642-7363-4cb8-b97a-dc46e407aa98,darnell.gratis,available,24.98,31.98,medium,low,7,namecheap,,,01/10/2026 10:55
+e527d1fa-7f72-4881-ae7a-74b348e4f5df,nests.gratis,available,18.83,18.83,medium,low,5,spaceship,,,02/10/2026 02:53
 86652086-68cc-4dcf-a05a-e606222823fc,talked.gratis,available,23.99,23.99,medium,low,6,namesilo,,,18/09/2026 13:42
 e8d399c1-23c9-4dbb-a33f-bf815005d249,behaved.gratis,available,19.05,19.05,medium,low,7,porkbun,,,30/09/2026 05:57
 ebab1e18-6ea4-4b90-b2d1-516271d9c97b,twinkling.gratis,available,23.99,23.99,high,low,9,namesilo,,,22/08/2026 07:34
@@ -303,17 +314,24 @@ ebab1e18-6ea4-4b90-b2d1-516271d9c97b,twinkling.gratis,available,23.99,23.99,high
 b244934c-970b-4c91-83f4-24b894b3adb9,blahs.gratis,available,23.99,23.99,medium,low,5,namesilo,,,24/09/2026 03:42
 66c548cb-5fc8-4dbc-9278-5554d4989c53,profession.gratis,available,18.83,18.83,high,low,10,spaceship,,,30/09/2026 07:31
 cd0fd679-3b49-43c0-ae74-d1441a8203fc,verboten.gratis,available,23.99,23.99,medium,low,8,namesilo,,,18/08/2026 11:06
+3e73367c-b3cc-42d0-b89e-dc96d71b02ab,gunnison.gratis,available,18.83,18.83,medium,low,8,spaceship,,,01/10/2026 12:09
 08ecd448-0adb-40ea-aa19-14622dc6b78d,halo.gratis,available,19.48,19.48,high,medium,4,dynadot,,,28/09/2026 21:17
 85715c84-702f-40d6-b61d-e9f2b663ffaa,profoundly.gratis,available,23.99,23.99,high,low,10,namesilo,,,14/09/2026 11:16
 b89e2a83-8e4f-4929-9f77-7547ae7bb790,survivors.gratis,available,18.2,18.2,medium,low,9,cloudflare,,,28/09/2026 05:06
+1f86be44-bb63-4c29-a9ee-7ea45e9dfa60,casanova.gratis,available,23.99,23.99,high,low,8,namesilo,,,02/10/2026 04:18
 bc4a4455-2965-4e43-aaeb-838b2b528f34,unsexy.gratis,available,24.98,31.98,medium,low,6,namecheap,,,12/09/2026 19:23
+3f71e74c-7a3f-4a20-9b0a-97b89c31a8e0,blanco.gratis,available,23.99,23.99,high,low,6,namesilo,,,01/10/2026 04:49
 edd76dd2-201b-4fef-81b4-277cdad34f40,irc.gratis,available,19.05,19.05,high,low,3,porkbun,,,28/09/2026 20:54
 5bf2b0c9-d61d-41b0-a995-98e22c2d6211,skirt.gratis,available,24.98,31.98,high,low,5,namecheap,,,29/09/2026 03:43
 6b963f1f-d75f-4166-b277-f970338a7866,claptrap.gratis,available,23.99,23.99,medium,low,8,namesilo,,,24/09/2026 03:39
 792f8d09-e293-472c-a4a8-b7f0e48bd9f8,clubs.gratis,available,23.99,23.99,high,low,5,namesilo,,,27/09/2026 08:43
+6588d00a-8f03-426f-8889-f9ceb9828c86,veterinarian.gratis,available,19.05,19.05,high,low,12,porkbun,,,01/10/2026 04:51
 8ab9e5d2-f981-4ecb-9d8a-d0dc417300b4,opportunities.gratis,available,18.83,18.83,medium,low,13,spaceship,,,28/09/2026 08:42
 80c9d9e8-3ee3-4416-99bd-912a8cff4923,droning.gratis,available,23.99,23.99,medium,low,7,namesilo,,,25/08/2026 05:28
 d096d66a-0d44-43c5-b882-2c1b9faf837b,verdant.gratis,available,23.99,23.99,high,low,7,namesilo,,,13/09/2026 02:22
+1f72579e-9507-49d0-ba2c-c554155b7444,mechanisms.gratis,available,18.2,18.2,medium,low,10,cloudflare,,,01/10/2026 16:08
+328ce244-6269-4427-b84b-a3699c752257,disarmed.gratis,available,19.48,19.48,medium,low,8,dynadot,,,01/10/2026 16:34
+6f5a9788-bb8a-46f3-a7e4-3e24e8d6c0f2,callie.gratis,available,19.05,19.05,high,low,6,porkbun,,,02/10/2026 00:10
 36b4027f-2a07-4f56-8816-66f91e10ea4f,readable.gratis,available,24.98,31.98,high,low,8,namecheap,,,13/08/2026 21:32
 b3560ea4-5fdc-4e4a-929e-96bd6b864522,sul.gratis,available,23.99,23.99,medium,low,3,namesilo,,,27/09/2026 10:19
 eff41b50-b78d-4ea7-8774-1235c81cd6bd,aerosol.gratis,available,23.99,23.99,high,low,7,namesilo,,,17/09/2026 13:15
@@ -325,10 +343,11 @@ c37f629a-d589-438e-80d1-cf4065ca123c,carlisle.gratis,available,24.98,31.98,high,
 3389bc3e-d0b2-4044-b736-7694f3b0c54e,freiburg.gratis,available,23.99,23.99,high,low,8,namesilo,,,28/09/2026 03:48
 9d900c4c-5bc0-4147-96f0-b73964a1aab0,tanner.gratis,available,18.2,18.2,high,low,6,cloudflare,,,29/09/2026 20:24
 d583f3fd-4ba2-4767-8eba-fbccd900f11a,navarre.gratis,available,23.99,23.99,medium,low,7,namesilo,,,27/09/2026 19:38
+28a8827a-f684-41fa-a5d1-d42d6de72ac9,precipitation.gratis,available,18.2,18.2,medium,low,13,cloudflare,,,02/10/2026 01:22
 271b4213-e783-471b-8771-84a5b7fd9714,carve.gratis,available,26.99,29.99,high,low,5,name.com,,,13/08/2026 12:51
 d813ee15-897d-4530-8eab-5e227b5489ba,squeezable.gratis,available,23.99,23.99,medium,low,10,namesilo,,,10/09/2026 17:41
 79d3a951-e5fd-4f42-bbcd-d4149e126789,larboard.gratis,available,24.98,31.98,medium,low,8,namecheap,,,22/08/2026 19:51
-4e4d0228-0a75-40b1-b88a-ccdb746d0e0c,interviewee.gratis,available,23.99,23.99,medium,low,11,namesilo,,,
+4e4d0228-0a75-40b1-b88a-ccdb746d0e0c,interviewee.gratis,available,23.99,23.99,medium,low,11,namesilo,,,01/10/2026 06:07
 9d8c87a4-afc4-4fd8-8771-950a78e40cb9,currents.gratis,available,23.99,23.99,medium,low,8,namesilo,,,29/09/2026 17:16
 c8be8fd5-e8ed-4647-85ad-293136a9f992,righted.gratis,available,24.98,31.98,medium,low,7,namecheap,,,20/09/2026 15:58
 517c093f-1377-4cd7-8b84-020b2d98c6c4,posing.gratis,available,23.99,23.99,high,low,6,namesilo,,,10/09/2026 08:59
@@ -337,6 +356,7 @@ dd59893f-acd8-406c-8cbf-58db0e57806e,gosh.gratis,available,18.83,18.83,high,low,
 5c77e6f8-b1ad-4a52-8c5d-c6978698a590,fasting.gratis,available,23.99,23.99,high,low,7,namesilo,,,17/08/2026 23:03
 5679d8fa-0fb1-4b14-b4da-2258a441ccd0,negotiator.gratis,available,23.99,23.99,high,low,10,namesilo,,,01/10/2026 03:04
 c0190e67-97f4-4b0e-9d1c-56447f0cea67,gail.gratis,available,23.99,23.99,high,low,4,namesilo,,,
+fe8ab1a7-375f-4113-8d7c-e204d53ee7ba,poisons.gratis,available,18.2,18.2,low,low,7,cloudflare,,,02/10/2026 03:39
 46f396fc-ad50-40fb-b09f-92aa11358257,polemical.gratis,available,23.99,23.99,medium,low,9,namesilo,,,08/09/2026 22:53
 227d7b90-2b48-4eea-b261-9602c94c2420,catechetic.gratis,available,24.98,31.98,medium,low,10,namecheap,,,11/08/2026 21:25
 f37e3832-bd7e-4766-ab7b-d671652d83c5,flagging.gratis,available,24.98,31.98,medium,low,8,namecheap,,,14/08/2026 19:41
@@ -354,9 +374,11 @@ e4f3c5a1-e54c-42bb-9caf-a1b8afd3f55a,columbian.gratis,available,24.98,31.98,medi
 d1392614-94c5-4f5c-858e-d7dc02631874,winfred.gratis,available,24.98,31.98,medium,low,7,namecheap,,,19/09/2026 19:23
 6f746f63-6650-4b06-a158-976aa4ed8438,jinx.gratis,available,23.99,23.99,high,low,4,namesilo,,,21/08/2026 07:37
 043762f5-0b31-4cf4-bb93-ab52a54129bb,chambered.gratis,available,23.99,23.99,medium,low,9,namesilo,,,12/08/2026 01:34
+def1aca7-bc37-4fe2-9ec6-b0094c66c46e,doppler.gratis,available,24.98,31.98,high,low,7,namecheap,,,01/10/2026 18:57
 7acc025c-cf14-44e4-a516-5b9579644fd7,refunds.gratis,available,23.99,23.99,high,low,7,namesilo,,,20/09/2026 14:13
 6b87c533-83ec-4d56-833a-7b9a08dc15e5,hereabouts.gratis,available,23.99,23.99,medium,low,10,namesilo,,,15/09/2026 00:20
 6531a50e-8404-4e14-ba3a-0a5618879317,torino.gratis,resell,,,high,low,6,,,,29/09/2026 02:19
+490d1ca7-1e66-4f0a-990f-4c626f981861,jeb.gratis,available,18.2,18.2,high,low,3,cloudflare,,,02/10/2026 00:04
 fc74927d-ab03-416f-b593-3cc1388de332,appetence.gratis,available,24.98,31.98,medium,low,9,namecheap,,,19/09/2026 20:44
 a1e0f565-6f89-4258-b1bb-ab161be41f81,decolour.gratis,available,23.99,23.99,medium,low,8,namesilo,,,24/09/2026 05:11
 5a380bab-92af-45be-b503-d71dffc15818,skimmed.gratis,available,23.99,23.99,medium,low,7,namesilo,,,10/09/2026 09:34
@@ -367,7 +389,7 @@ a1e0f565-6f89-4258-b1bb-ab161be41f81,decolour.gratis,available,23.99,23.99,mediu
 6f01d67a-5c3c-4004-ba58-d440234c2fdb,ashton.gratis,available,23.99,23.99,high,low,6,namesilo,,,20/09/2026 14:00
 d5b6117e-2500-4f9c-8595-4a72f5760089,tempt.gratis,available,26.99,29.99,high,low,5,name.com,,,18/09/2026 12:14
 69cde0a6-ae1c-4617-a44b-d9adfb0762be,sombre.gratis,available,23.99,23.99,medium,low,6,namesilo,,,10/09/2026 14:02
-a8ee3393-b3b0-4a9c-9c8c-e934f402cc20,towards.gratis,available,23.99,23.99,high,low,7,namesilo,,,
+a8ee3393-b3b0-4a9c-9c8c-e934f402cc20,towards.gratis,available,18.83,18.83,high,low,7,spaceship,,,01/10/2026 19:05
 d8952eb9-36aa-43da-8450-cd1655bb3d40,laurens.gratis,available,18.2,18.2,high,low,7,cloudflare,,,29/09/2026 07:10
 aa06a39f-8a95-46ed-a8ce-dad542cbf558,contralto.gratis,available,23.99,23.99,high,low,9,namesilo,,,
 36f43451-2ba6-4f04-99af-775b1bd5cd4e,nasdaq.gratis,available,18.2,18.2,high,low,6,cloudflare,,,28/09/2026 02:27
@@ -376,7 +398,7 @@ e17e5662-a1b1-46fd-a0ee-34708629b59e,consumable.gratis,available,23.99,23.99,hig
 21ef0119-f16f-4e1e-a6b2-54042e156ecb,emotion.gratis,available,19.05,19.05,high,low,7,porkbun,,,29/09/2026 18:04
 71b22234-81d8-4222-ab36-a36b9e88346d,tombs.gratis,available,18.2,18.2,medium,low,5,cloudflare,,,30/09/2026 05:23
 a1f57af5-2497-4563-bec1-8f13b11bf668,sanely.gratis,available,23.99,23.99,medium,low,6,namesilo,,,16/09/2026 00:33
-6f8e3d90-7600-42c1-a958-0221f3d04908,dairy.gratis,available,24.98,31.98,high,low,5,namecheap,,,28/09/2026 22:44
+6f8e3d90-7600-42c1-a958-0221f3d04908,dairy.gratis,available,23.99,23.99,high,low,5,namesilo,,,01/10/2026 10:55
 cb77140b-e2ce-44d1-8fc8-843150ab5ae2,secondly.gratis,available,18.83,18.83,medium,low,8,spaceship,,,27/09/2026 19:26
 4008cd7c-0146-4c83-898d-96cf691797a4,prevention.gratis,available,23.99,23.99,high,low,10,namesilo,,,08/09/2026 14:09
 d2d38948-66df-4c4b-9f75-04bb6cd590f2,champs.gratis,available,23.99,23.99,medium,low,6,namesilo,,,20/09/2026 13:31
@@ -415,12 +437,13 @@ b831c6a2-cd8a-4702-a995-efe1ac137d84,threadbare.gratis,available,23.99,23.99,med
 8fc0f543-44f4-46f1-a259-309ff203b209,octagonal.gratis,available,23.99,23.99,medium,low,9,namesilo,,,04/09/2026 00:37
 dd741025-c26b-4424-a749-5657c8da3ae8,corporal.gratis,available,23.99,23.99,high,low,8,namesilo,,,13/08/2026 01:52
 8e55c162-c0de-4c0c-b8bd-2380eadc8bf6,ubiquitous.gratis,available,23.99,23.99,high,low,10,namesilo,,,04/09/2026 13:54
-a13e23bb-386a-4728-abe0-80c6eeeefb3e,code.gratis,premium,118.8,118.8,high,medium,4,namesilo,,,28/09/2026 06:53
+a13e23bb-386a-4728-abe0-80c6eeeefb3e,code.gratis,premium,102.67,102.67,high,medium,4,spaceship,,,01/10/2026 15:24
 7ae2deb7-68f2-4db6-954c-c5ef7954bd06,biblical.gratis,available,24.98,31.98,medium,low,8,namecheap,,,09/08/2026 18:53
 5df72f6e-a850-4d64-aa81-6a4e4a608a71,threshold.gratis,available,23.99,23.99,high,low,9,namesilo,,,24/09/2026 10:33
 c3cb06a1-6fb0-4867-8808-967f43e01e71,yearning.gratis,available,18.83,18.83,high,low,8,spaceship,,,30/09/2026 17:56
 d0f6714b-5c8c-401a-a972-5428f402bf18,elimination.gratis,available,18.2,18.2,high,low,11,cloudflare,,,28/09/2026 02:39
 9044f3f8-790e-487d-b751-6bac49781222,buxom.gratis,available,24.98,31.98,medium,low,5,namecheap,,,10/08/2026 20:28
+317ffec6-a367-4076-b186-1ccd8316fa15,troyes.gratis,available,23.99,23.99,medium,low,6,namesilo,,,01/10/2026 08:31
 b94e358b-0648-4e97-8bb1-bc7bbc34da76,mucose.gratis,available,23.99,23.99,medium,low,6,namesilo,,,03/09/2026 10:16
 7367a9fe-1f35-423e-8051-9a828932e99c,doe.gratis,premium,20.9,20.9,high,low,3,spaceship,,,29/09/2026 00:39
 e01048eb-3b1a-4408-9e01-b02d7143f0f2,emblem.gratis,available,18.2,18.2,high,low,6,cloudflare,,,28/09/2026 02:43
@@ -442,7 +465,7 @@ ab546c63-4003-4b4d-babd-2881d2148f03,alp.gratis,premium,23.6,23.6,high,low,3,nam
 babd3b37-de32-4d30-b8d6-642d586463e8,thyroid.gratis,available,23.99,23.99,high,low,7,namesilo,,,11/09/2026 15:18
 fb19ef34-3382-423f-9b7d-466559b5fa80,unvoiced.gratis,available,23.99,23.99,medium,low,8,namesilo,,,11/09/2026 03:39
 fbecfa8a-c275-47b9-8a92-1c2343528109,undyed.gratis,available,23.99,23.99,medium,low,6,namesilo,,,12/09/2026 02:08
-ee7a70f2-b353-46b6-86b0-03c8e783e5a4,computable.gratis,available,18.83,18.83,high,low,10,spaceship,,,30/09/2026 01:29
+ee7a70f2-b353-46b6-86b0-03c8e783e5a4,computable.gratis,available,19.05,19.05,high,low,10,porkbun,,,02/10/2026 00:11
 9bca2b30-a75d-46ed-b2ca-b9a1ecc5cf31,tapestry.gratis,available,23.99,23.99,high,low,8,namesilo,,,20/09/2026 08:48
 e92fe856-8735-4d18-864f-88d43f828365,compassionate.gratis,available,19.48,19.48,high,low,13,dynadot,,,29/09/2026 21:13
 570660c0-f759-43f6-b762-18ceefe80b72,burleigh.gratis,available,18.83,18.83,medium,low,8,spaceship,,,30/09/2026 13:50
@@ -459,6 +482,7 @@ b1f2e0e3-1e40-4b0a-bde0-ddec6e5706ac,assuring.gratis,available,23.99,23.99,mediu
 3378a9e5-c4d9-4bac-a149-72012ff58c45,clash.gratis,available,23.99,23.99,high,low,5,namesilo,,,29/09/2026 09:50
 ed8583ad-848a-48e1-8ca3-c64296aea4a7,amongst.gratis,available,18.2,18.2,medium,low,7,cloudflare,,,01/10/2026 00:29
 39595dac-d267-4c12-80d6-861f9c881196,preparations.gratis,available,23.99,23.99,low,low,12,namesilo,,,29/09/2026 05:22
+617b4c4a-513d-410b-a7f5-ffd3c7934d2a,chicano.gratis,available,18.83,18.83,high,low,7,spaceship,,,02/10/2026 04:20
 306368a6-61e0-4bae-91cd-c460616989f4,tawdry.gratis,available,23.99,23.99,medium,low,6,namesilo,,,12/08/2026 03:29
 dac4e25b-84ae-47c8-8f91-e45a1c74b74c,alva.gratis,available,23.99,23.99,high,low,4,namesilo,,,29/09/2026 15:31
 d18b283a-36b0-439f-bdd9-5571ea97f1d8,alla.gratis,available,23.99,23.99,high,low,4,namesilo,,,29/09/2026 15:17
@@ -466,13 +490,16 @@ d18b283a-36b0-439f-bdd9-5571ea97f1d8,alla.gratis,available,23.99,23.99,high,low,
 19cca59f-9b12-4ad9-9b6e-04437ee8db28,cure.gratis,available,24.98,31.98,high,low,4,namecheap,,,24/09/2026 03:52
 3942d626-ca29-4f45-ba1e-2904be3a1ff1,frosted.gratis,available,23.99,23.99,high,low,7,namesilo,,,18/08/2026 16:22
 e124029f-2758-40ff-8f64-d1d99ca188b9,crooks.gratis,available,18.83,18.83,medium,low,6,spaceship,,,30/09/2026 20:36
+0e64eafa-3b58-482c-a5a2-d7dc719b61e0,captives.gratis,available,19.05,19.05,medium,low,8,porkbun,,,02/10/2026 02:54
 b60cb28d-8737-4c39-b58d-8c1b4e61e453,ancylus.gratis,available,23.99,23.99,medium,low,7,namesilo,,,19/09/2026 03:54
 1d0d6275-8c69-4d29-baf8-25dc9b37d178,reticently.gratis,available,23.99,23.99,medium,low,10,namesilo,,,15/09/2026 23:31
-523f8f4e-0dbc-4022-ae3c-2f0e21e7e32e,opera.gratis,premium,23.6,23.6,high,low,5,namesilo,,,28/09/2026 10:47
+1de7f495-4eb4-46aa-9383-53647811b28e,barnstable.gratis,available,18.2,18.2,medium,low,10,cloudflare,,,01/10/2026 11:53
+523f8f4e-0dbc-4022-ae3c-2f0e21e7e32e,opera.gratis,premium,22,22,high,low,5,dynadot,,,01/10/2026 18:48
 20b1435f-c275-49e0-a9fe-51cb2894e581,destroy.gratis,available,23.99,23.99,high,low,7,namesilo,,,25/09/2026 10:30
 b9a3cadc-a420-42a3-a355-f6a057bf4ef1,happened.gratis,available,24.98,31.98,medium,low,8,namecheap,,,25/09/2026 20:05
 f7d603aa-dae4-44b0-b147-a9f752da8b42,barbara.gratis,available,23.99,23.99,high,low,7,namesilo,,,25/09/2026 11:55
 f2859cff-9734-4372-9748-cbfd7cec5f79,wulfila.gratis,available,24.98,31.98,medium,low,7,namecheap,,,23/09/2026 21:57
+a0d35954-7e3d-4334-8077-c85a3f137c74,encrypted.gratis,available,19.05,19.05,high,low,9,porkbun,,,02/10/2026 02:04
 3ce8b231-a981-4079-8f24-0fe6edb3226a,position.gratis,available,23.99,23.99,high,low,8,namesilo,,,19/09/2026 04:25
 dd529540-e951-49a3-92b3-2b372764e6b3,emulator.gratis,available,23.99,23.99,medium,low,8,namesilo,,,19/09/2026 16:28
 ce391c6b-1eff-4bb0-9748-60031c3565e5,agitating.gratis,available,23.99,23.99,medium,low,9,namesilo,,,
@@ -496,6 +523,7 @@ afc880d1-582a-4a90-87fd-744112a264a0,darryl.gratis,available,18.83,18.83,medium,
 1b95c68a-21e6-418c-857f-9574e38458bd,homebody.gratis,available,24.98,31.98,medium,low,8,namecheap,,,10/09/2026 19:28
 5fe62da5-7880-4ff4-a982-e385409bf4d2,solomon.gratis,available,19.48,19.48,high,low,7,dynadot,,,28/09/2026 20:31
 7c9b4b65-5baf-437a-b0bd-2ef86de4dcfb,bead.gratis,available,23.99,23.99,high,low,4,namesilo,,,29/09/2026 01:38
+81a9a881-afcd-4571-b796-9e73749af232,xing.gratis,available,23.99,23.99,high,low,4,namesilo,,,01/10/2026 06:20
 0555ec0d-3316-407a-adaa-915b8ca0c7aa,assistance.gratis,available,24.98,31.98,high,low,10,namecheap,,,17/09/2026 20:44
 27909e16-b42e-4c86-9e5e-88f5f683e0cb,emollient.gratis,available,23.99,23.99,medium,low,9,namesilo,,,14/08/2026 01:39
 ecb98777-2891-460f-9bee-129e6cdc3605,joseph.gratis,available,23.99,23.99,high,low,6,namesilo,,,24/09/2026 14:32
@@ -508,10 +536,11 @@ ff22329f-e467-44a3-ad2f-fd40a7e4bebe,spoke.gratis,available,23.99,23.99,high,low
 1f927913-11e5-41cc-a8b7-61a9e04c80d4,princess.gratis,available,18.83,18.83,high,low,8,spaceship,,,30/09/2026 07:25
 c6bc4258-cf84-4b71-bd37-a315d5e0dd17,head.gratis,available,23.99,23.99,high,low,4,namesilo,,,30/09/2026 14:18
 fb2229df-d041-4903-8f42-cd27a7a55d3f,leone.gratis,available,18.83,18.83,high,low,5,spaceship,,,29/09/2026 19:32
+d63a9c51-99ef-4d8a-9535-62948b14d51b,grammy.gratis,available,18.83,18.83,high,low,6,spaceship,,,01/10/2026 23:31
 d207add0-7281-46ef-ba39-e7a038f29c6a,believable.gratis,available,23.99,23.99,medium,low,10,namesilo,,,09/08/2026 13:01
 9fea1aae-f3c5-43cf-8e5a-44fb5ad33b84,unfirm.gratis,available,23.99,23.99,low,low,6,namesilo,,,12/09/2026 10:19
 ddf73732-b067-47cf-b660-32f11878bf4a,sixthly.gratis,available,23.99,23.99,medium,low,7,namesilo,,,16/09/2026 02:03
-b3dc03a2-e45f-482a-8651-5d6d3c34d796,surroundings.gratis,available,18.83,18.83,high,low,12,spaceship,,,28/09/2026 06:36
+b3dc03a2-e45f-482a-8651-5d6d3c34d796,surroundings.gratis,available,18.83,18.83,high,low,12,spaceship,,,01/10/2026 17:40
 ba312641-3fa5-4915-ad2b-4a68cba7c2ed,queasy.gratis,available,23.99,23.99,medium,low,6,namesilo,,,24/08/2026 08:26
 5fed7d1b-3697-462c-927a-674c3f4c6d37,dangling.gratis,available,18.2,18.2,medium,low,8,cloudflare,,,01/10/2026 01:41
 5cad6adf-c342-4386-b9b1-935c96979371,deposited.gratis,available,18.2,18.2,medium,low,9,cloudflare,,,29/09/2026 23:53
@@ -531,8 +560,11 @@ ec19ffe2-1eea-4d45-a7bd-56b5239f7ed3,athletes.gratis,available,23.99,23.99,mediu
 4793d2aa-a6e7-4088-b915-0892bf74f3ef,kinshasa.gratis,available,23.6,23.6,high,low,8,namesilo,,,01/10/2026 02:48
 5bbcd8b1-8363-47ee-82a0-b482b73baf0c,diy.gratis,premium,102.67,102.67,high,low,3,spaceship,,,01/10/2026 01:42
 3e1f7a58-0a51-4b75-8db0-a5f1a6c266ad,tends.gratis,available,18.83,18.83,medium,low,5,spaceship,,,29/09/2026 04:58
+70bf492f-66cc-465c-a65d-c7becc00144c,misuse.gratis,available,19.48,19.48,medium,low,6,dynadot,,,01/10/2026 20:33
 270dc376-7c53-4d91-af81-75cfa286829d,dishwasher.gratis,available,19.48,19.48,high,low,10,dynadot,,,29/09/2026 15:53
+7808c5a2-cef4-4b91-aac2-119797cd45b2,genotype.gratis,available,24.98,31.98,high,low,8,namecheap,,,01/10/2026 19:43
 5ae180c3-8767-41a3-ad22-eb3d00716345,chivalry.gratis,available,18.83,18.83,high,low,8,spaceship,,,01/10/2026 01:21
+1c77f37b-3275-4868-95d4-e3741d7da082,paf.gratis,available,18.2,18.2,high,low,3,cloudflare,,,01/10/2026 23:20
 71b31902-65b9-4fe3-8d2b-9589a9698833,monsieur.gratis,available,18.83,18.83,high,low,8,spaceship,,,29/09/2026 13:30
 03887b31-9585-4940-beaf-4797cdfcf240,tomb.gratis,available,23.99,23.99,medium,low,4,namesilo,,,27/09/2026 16:05
 74f7f027-3435-4443-bc23-29dd2781cfb1,yue.gratis,available,18.83,18.83,high,low,3,spaceship,,,29/09/2026 18:11
@@ -561,6 +593,7 @@ d8898267-f948-462f-9c55-933f30b3413b,advisee.gratis,available,23.99,23.99,medium
 6ebf1f90-9db1-4fd0-b509-c13ceb074543,welch.gratis,available,23.99,23.99,high,low,5,namesilo,,,13/09/2026 10:47
 97703792-3d6c-43f7-b85a-740078d43455,mantled.gratis,available,24.98,31.98,medium,low,7,namecheap,,,14/08/2026 18:25
 6fb2acab-f74c-4b59-a45b-14630947df94,guillaume.gratis,available,24.98,31.98,high,low,9,namecheap,,,28/09/2026 04:52
+97144c32-aa02-4ab8-9084-050fafca1d7d,exiting.gratis,available,23.99,23.99,high,low,7,namesilo,,,01/10/2026 05:02
 50572a65-6658-4ecc-8823-437170f6726d,paraffin.gratis,available,23.99,23.99,high,low,8,namesilo,,,18/09/2026 08:24
 e3a87e11-443a-4f95-8569-160e4d32a9cd,enterprising.gratis,available,18.83,18.83,high,low,12,spaceship,,,30/09/2026 02:31
 29de9a28-9c16-4e30-826b-d5a67e50404e,beigel.gratis,available,24.98,31.98,high,low,6,namecheap,,,21/09/2026 17:54
@@ -580,10 +613,12 @@ f2578f06-8e6f-4ba3-aae5-5473a64379b9,modigliani.gratis,available,24.98,31.98,hig
 ac71392c-6e86-407c-a380-82d99bb72d9f,broody.gratis,available,23.99,23.99,medium,low,6,namesilo,,,11/08/2026 05:54
 d06efe18-e90c-4939-a5cd-0c64f61d9553,montrose.gratis,available,18.83,18.83,medium,low,8,spaceship,,,28/09/2026 04:14
 bf9e7ebb-7c28-4469-ae6e-66e7b00e174c,nauseous.gratis,available,23.99,23.99,medium,low,8,namesilo,,,24/08/2026 08:24
-788a2fe4-7435-49d1-9017-7e55ef9224e0,intercultural.gratis,available,23.99,23.99,high,low,13,namesilo,,,
+788a2fe4-7435-49d1-9017-7e55ef9224e0,intercultural.gratis,available,18.2,18.2,high,low,13,cloudflare,,,01/10/2026 23:06
 7999e93a-0076-4ea4-8741-22e19da752dd,poker.gratis,premium,,,high,medium,5,,,,29/09/2026 19:21
-364e8ef6-0015-48f3-8031-6cfaa5fa0eb5,shower.gratis,available,18.83,18.83,high,low,6,spaceship,,,28/09/2026 06:02
+e8e41d3c-ed92-4391-a963-37565e1b4198,midtown.gratis,available,23.99,23.99,high,low,7,namesilo,,,01/10/2026 14:20
+364e8ef6-0015-48f3-8031-6cfaa5fa0eb5,shower.gratis,available,18.83,18.83,high,low,6,spaceship,,,01/10/2026 15:57
 ec259cd3-9e67-4259-9798-1d8f33d69669,chthonic.gratis,available,23.99,23.99,medium,low,8,namesilo,,,12/08/2026 07:28
+cc6d51c9-37ab-4f51-a473-6a2befd4cae7,manning.gratis,available,19.05,19.05,high,low,7,porkbun,,,02/10/2026 00:34
 b5175143-8cde-4df0-9fd0-fcb1d4fb4899,conceptive.gratis,available,24.98,31.98,medium,low,10,namecheap,,,12/08/2026 20:03
 894403c0-1bf0-4996-ba1f-52cac4d1de93,frame.gratis,available,18.83,18.83,high,low,5,spaceship,,,29/09/2026 03:14
 c84038f0-fced-4ca3-95ce-5589ff7f8d82,crete.gratis,available,19.48,19.48,high,low,5,dynadot,,,30/09/2026 01:10
@@ -631,6 +666,7 @@ fb2d8a0e-c56d-42fa-8180-80bda9f830b7,varicose.gratis,available,23.99,23.99,mediu
 ea171dbb-9ad6-408e-ac9d-4e03231cc94b,vest.gratis,available,18.2,18.2,medium,low,4,cloudflare,,,28/09/2026 10:51
 a3f2973b-3202-4be5-a408-72adc99187f7,millimeter.gratis,available,18.83,18.83,high,low,10,spaceship,,,30/09/2026 18:02
 19a717f3-a86a-4c86-a0f9-119aa8a029d6,confiscated.gratis,available,18.83,18.83,low,low,11,spaceship,,,29/09/2026 11:03
+8686cdad-8209-4899-bb50-bbf57288ef29,gwynedd.gratis,available,18.83,18.83,medium,low,7,spaceship,,,02/10/2026 00:00
 5ea910c8-ab89-4993-abdf-28507810d218,scholarly.gratis,available,23.99,23.99,high,low,9,namesilo,,,09/09/2026 23:11
 dd70873a-3698-4254-97c4-6993b839cfcf,waiter.gratis,available,23.99,23.99,high,low,6,namesilo,,,30/09/2026 10:59
 0a4ac904-bd13-430a-a5e4-58c985408aa8,whitlock.gratis,available,19.05,19.05,medium,low,8,porkbun,,,30/09/2026 21:49
@@ -671,6 +707,7 @@ e87c4b3d-9b67-4a6a-8d60-e3cd1305ff88,allomorph.gratis,available,23.99,23.99,medi
 794dfc1d-5df8-4dc5-82f6-5ff3d70459bc,los.gratis,available,23.6,23.6,high,low,3,namesilo,,,01/10/2026 00:09
 11b669a1-838f-4765-92aa-81f8392cbcdc,guide.gratis,premium,500,,high,low,5,name.com,,,29/09/2026 21:42
 291b5336-62f2-4e73-ad5b-9cf3db888877,lupine.gratis,available,23.99,23.99,medium,low,6,namesilo,,,24/08/2026 11:39
+987d18f4-56d5-4af1-a46a-727dbeb68e97,considerate.gratis,available,24.98,31.98,high,low,11,namecheap,,,01/10/2026 04:44
 918e0639-1328-410b-823d-fae4bff9f2ee,boer.gratis,available,23.99,23.99,medium,low,4,namesilo,,,
 c3e023cb-6e3e-460b-9bcb-1c4cd6844ec3,asocial.gratis,available,23.99,23.99,medium,low,7,namesilo,,,07/08/2026 04:36
 920d6fc8-1d76-4248-a7d5-61a5a3f1f7e6,male.gratis,available,23.99,23.99,high,low,4,namesilo,,,25/09/2026 16:34
@@ -683,6 +720,7 @@ c3e023cb-6e3e-460b-9bcb-1c4cd6844ec3,asocial.gratis,available,23.99,23.99,medium
 e77b46be-c2c9-4052-8e5c-87d714aa7b16,dandified.gratis,available,26.99,29.99,medium,low,9,name.com,,,13/08/2026 17:01
 bbb7b584-497a-46bb-8e2b-717a2af6de7f,garish.gratis,available,23.99,23.99,medium,low,6,namesilo,,,18/08/2026 06:35
 e1332dcc-2775-49a4-9014-a32892d91609,jackfruit.gratis,available,23.99,23.99,high,low,9,namesilo,,,20/09/2026 11:58
+fa15e092-9fc8-4c02-9400-f180fedcb4d3,resorts.gratis,available,18.83,18.83,medium,low,7,spaceship,,,02/10/2026 03:30
 0c1c2a0f-37ad-4059-a279-f7894f00f0ca,abusive.gratis,available,23.99,23.99,medium,low,7,namesilo,,,
 5b9c1a15-44a0-4db5-b743-86602d1b1208,stahl.gratis,available,18.2,18.2,high,low,5,cloudflare,,,29/09/2026 11:00
 caf07c34-1064-4dc1-996d-c4cbdcd1d198,anklets.gratis,available,23.99,23.99,medium,low,7,namesilo,,,19/09/2026 09:46
@@ -696,13 +734,15 @@ c73e2439-3b25-471d-9dee-9eaa4fa881a0,unreleased.gratis,available,24.98,31.98,med
 bdce8240-ae01-4f16-9971-ee7340716e2f,vowed.gratis,available,18.83,18.83,high,low,5,spaceship,,,29/09/2026 23:41
 0f77de25-98c4-4364-b63f-8761f5f39302,stertorous.gratis,available,24.98,31.98,low,low,10,namecheap,,,10/09/2026 20:21
 b3d00275-5ff8-4573-ac48-4c6296c05020,crichton.gratis,available,19.05,19.05,medium,low,8,porkbun,,,30/09/2026 01:11
-89f605ed-7964-457f-940f-dbcb77aa8b2d,distinguished.gratis,available,23.99,23.99,high,low,13,namesilo,,,
+89f605ed-7964-457f-940f-dbcb77aa8b2d,distinguished.gratis,available,19.48,19.48,high,low,13,dynadot,,,01/10/2026 19:21
 d24dda84-a777-493d-aebe-b662574617bd,explosion.gratis,available,23.99,23.99,medium,low,9,namesilo,,,25/09/2026 21:57
 75250988-2ca4-46a4-b8a6-0a2ceabf5e4d,dwindling.gratis,available,23.99,23.99,medium,low,9,namesilo,,,14/08/2026 21:48
 ac61af7b-f4f5-4fdd-83a7-7b7cc0777bc5,spock.gratis,available,23.99,23.99,high,low,5,namesilo,,,23/09/2026 08:25
 ad871c60-7f08-4ad9-ab50-0cfdcc1e973b,packages.gratis,available,23.99,23.99,high,low,8,namesilo,,,19/09/2026 00:23
 1d02e8e5-3b74-4516-9f27-bed29988b423,bounteous.gratis,available,24.98,31.98,high,low,9,namecheap,,,09/08/2026 20:50
 2caa8ce6-3748-42c0-a60c-5343c6c28e7c,baptistry.gratis,available,23.99,23.99,medium,low,9,namesilo,,,22/09/2026 03:28
+0b7cae3f-8f67-4f8c-9e3a-e7a969195473,mbc.gratis,available,23.99,23.99,high,low,3,namesilo,,,01/10/2026 07:39
+4b8bba65-2730-47e2-80c7-311d46f7d545,fuels.gratis,available,19.48,19.48,medium,low,5,dynadot,,,01/10/2026 16:17
 0e92dbf3-1b92-4c1d-94f0-602d11b5a07d,suzanne.gratis,available,18.2,18.2,medium,low,7,cloudflare,,,28/09/2026 11:57
 086bee8a-2893-40cf-93de-9657621d956a,crumpled.gratis,available,23.99,23.99,medium,low,8,namesilo,,,13/08/2026 09:06
 66977c5c-a710-4334-90e9-58ddf4eac120,nafta.gratis,available,24.98,31.98,medium,low,5,namecheap,,,29/09/2026 07:38
@@ -753,31 +793,38 @@ e058663e-668d-4ecc-9d13-689836a3c73b,pine.gratis,available,23.99,23.99,high,low,
 55782c0f-b169-4143-8dea-05256ce98859,azores.gratis,available,23.99,23.99,medium,low,6,namesilo,,,17/09/2026 02:13
 7136c150-2a1a-4afc-8195-ff977471441f,pained.gratis,available,23.99,23.99,medium,low,6,namesilo,,,04/09/2026 01:26
 ede0945b-372b-44e6-b1cd-396e1dcb5f9f,atavist.gratis,available,23.99,23.99,medium,low,7,namesilo,,,11/09/2026 14:58
+29b2fbcf-c0f0-4e07-9383-903d79ec4f07,aap.gratis,available,24.98,31.98,high,low,3,namecheap,,,01/10/2026 05:12
 5abe99cd-b73c-4a93-8eea-7a64783c396a,kenaf.gratis,available,23.99,23.99,medium,low,5,namesilo,,,23/09/2026 16:55
+9e81e953-b62d-4fd8-b9fd-6dc78c15225f,orbits.gratis,available,18.83,18.83,medium,low,6,spaceship,,,01/10/2026 17:47
 dc2d0281-4e2a-47db-9235-e37886a7b50c,thongs.gratis,available,23.99,23.99,medium,low,6,namesilo,,,19/09/2026 22:16
 ee90e376-3096-4b79-b9f2-0175761843da,tailor.gratis,available,18.83,18.83,high,low,6,spaceship,,,28/09/2026 10:52
 f6588b64-9855-451e-af39-3652e1f3a7c8,marvelous.gratis,available,24.98,31.98,high,low,9,namecheap,,,25/09/2026 00:13
 ca9dd38a-582a-41a7-8a4d-aef4c1cc8ec4,westbound.gratis,available,23.99,23.99,medium,low,9,namesilo,,,13/09/2026 10:51
-49f4d44f-e04d-4c1d-a707-4b62be9f219d,diagnosis.gratis,available,23.99,23.99,high,low,9,namesilo,,,24/09/2026 22:08
+49f4d44f-e04d-4c1d-a707-4b62be9f219d,diagnosis.gratis,available,18.83,18.83,high,low,9,spaceship,,,01/10/2026 22:09
 7785659e-8c64-4eb0-b235-e22b67ed3adc,rita.gratis,available,24.98,31.98,high,low,4,namecheap,,,25/09/2026 19:01
 2f1a52c6-f897-4a65-95d9-a9d2452b57db,summers.gratis,available,23.99,23.99,high,low,7,namesilo,,,29/09/2026 05:53
 9f7bfdd8-3de2-4012-ad98-5f87837e8899,plato.gratis,available,24.98,31.98,high,low,5,namecheap,,,29/09/2026 13:42
 582e375a-b920-4935-aa27-f0fc8c219771,bass.gratis,available,26.99,29.99,high,low,4,name.com,,,22/09/2026 18:00
 d8e04e25-60e2-479b-a713-2d10c2eb6d5a,agnatic.gratis,available,23.99,23.99,medium,low,7,namesilo,,,
+e320d91f-a93e-4551-af2c-bbf00e0c6c4a,garde.gratis,available,18.2,18.2,high,low,5,cloudflare,,,01/10/2026 22:37
 d41034b6-2bad-4954-807f-86129f0c2da6,boat.gratis,premium,207.2,207.2,high,low,4,spaceship,,,29/09/2026 03:06
 9b81bd3c-901d-49de-8285-2309336dc581,boar.gratis,available,23.99,23.99,high,low,4,namesilo,,,29/09/2026 11:44
 946e29de-9594-4270-a792-13b97c629b48,learns.gratis,available,24.98,31.98,medium,low,6,namecheap,,,20/09/2026 05:46
+13492bc6-cd86-497f-a8dd-6055410a9855,muhlenberg.gratis,available,23.99,23.99,medium,low,10,namesilo,,,02/10/2026 01:03
 715fdeb8-381a-4841-81b2-261cbbcf40b8,without.gratis,available,18.2,18.2,high,low,7,cloudflare,,,30/09/2026 23:19
 cf5d2612-87d9-4729-978d-0b7d5544b248,weakening.gratis,available,26.99,29.99,medium,low,9,name.com,,,13/08/2026 20:44
 65dda151-fad6-450e-8dcd-43ab3c4eeb14,caesar.gratis,available,23.99,23.99,high,low,6,namesilo,,,27/09/2026 03:27
+cdc2ea08-4b8c-4fe3-92ce-4d8a7fb11033,quantico.gratis,available,18.83,18.83,medium,low,8,spaceship,,,01/10/2026 11:25
 91006ddc-f8aa-4254-a064-e69b23d4f9b6,scarface.gratis,available,18.83,18.83,medium,low,8,spaceship,,,28/09/2026 19:51
 8f91d125-047e-4876-9464-d8e5f36fe978,enhanced.gratis,available,23.99,23.99,high,low,8,namesilo,,,17/08/2026 08:25
 0d18b849-541c-4ba2-a7c1-cfbbe6617b61,kingdoms.gratis,available,23.99,23.99,medium,low,8,namesilo,,,30/09/2026 15:20
 e19f7553-c780-44fd-8099-ea7d5876234c,avid.gratis,available,23.99,23.99,high,low,4,namesilo,,,07/08/2026 23:21
 3f5f67be-1996-455b-86e6-6107fac1f021,beanie.gratis,available,24.98,31.98,high,low,6,namecheap,,,22/09/2026 20:31
 82cb529f-b4cd-4a2b-b3c1-b9291f4ac1c1,mahler.gratis,available,18.2,18.2,medium,low,6,cloudflare,,,29/09/2026 01:10
+f35e18bf-674a-4688-8bd1-2858a73104a0,leningrad.gratis,available,24.98,31.98,medium,low,9,namecheap,,,01/10/2026 20:17
 0efa49f1-2a00-4737-a9a0-962328e9ff99,aliform.gratis,available,23.99,23.99,medium,low,7,namesilo,,,
 87e64d85-1cdb-4dc5-9da3-6de9bd00d53e,atopy.gratis,available,23.99,23.99,medium,low,5,namesilo,,,21/09/2026 00:33
+5ab71a58-ec8a-4942-bc15-1302124898cf,lundy.gratis,available,23.99,23.99,medium,low,5,namesilo,,,01/10/2026 11:45
 53e5a0a0-23bc-4506-8a06-36f7be45abab,postmortem.gratis,available,23.99,23.99,medium,low,10,namesilo,,,09/09/2026 00:31
 75f16dd7-04ef-499d-b5b7-73f745ee71a1,stoppers.gratis,available,23.99,23.99,medium,low,8,namesilo,,,20/09/2026 12:45
 63462cb8-31ec-43ea-a8e2-289310351167,semester.gratis,available,18.83,18.83,high,low,8,spaceship,,,28/09/2026 06:43
@@ -800,6 +847,7 @@ de11b46c-e4c9-4999-8fda-9d3904381154,handling.gratis,available,23.99,23.99,high,
 25e0330f-7707-483c-a348-0369a726426c,ascetic.gratis,available,23.99,23.99,medium,low,7,namesilo,,,07/08/2026 00:56
 df9d0cae-6bd7-4c25-b717-c2524bb300f4,remarkable.gratis,available,23.99,23.99,high,low,10,namesilo,,,09/09/2026 13:42
 59bcfe60-3e63-46d0-b54f-b41182e12838,deane.gratis,available,18.83,18.83,medium,low,5,spaceship,,,28/09/2026 12:11
+8a2de3d6-a011-41f1-896a-a0939040107c,crave.gratis,available,18.83,18.83,high,low,5,spaceship,,,01/10/2026 20:26
 d1a73699-7337-49a5-9d4d-75bf8545fde6,covered.gratis,available,23.99,23.99,high,low,7,namesilo,,,24/09/2026 00:50
 4edc5b00-16d8-456c-bcde-51571eafea0a,bereft.gratis,available,23.99,23.99,low,low,6,namesilo,,,09/08/2026 15:05
 164c52d1-83c3-4b71-843d-264a579d9bff,fannie.gratis,available,18.2,18.2,medium,low,6,cloudflare,,,28/09/2026 12:06
@@ -856,10 +904,11 @@ a4edc92a-f945-4af9-804d-d06411c64bfe,whalebone.gratis,available,24.98,31.98,medi
 9433e385-cbfc-4a30-9ef3-ce9be1f30138,cannon.gratis,available,23.99,23.99,high,low,6,namesilo,,,24/09/2026 12:05
 11b50561-fcfe-4295-a668-8e4a6d86e99e,cheerful.gratis,available,23.99,23.99,high,low,8,namesilo,,,12/08/2026 03:41
 596d3532-02a7-4b91-adbf-25263cc095d6,picker.gratis,available,23.99,23.99,medium,low,6,namesilo,,,24/09/2026 14:45
+bbf57027-1fe9-40b5-847c-b1db4853b9c7,nui.gratis,available,24.98,31.98,high,low,3,namecheap,,,01/10/2026 23:21
 c787b3e7-ccbc-48cd-ac08-6513c113b51b,agone.gratis,available,24.98,31.98,medium,low,5,namecheap,,,
 cc875bab-bcee-4e33-974d-92feaa3812c1,parris.gratis,available,18.2,18.2,medium,low,6,cloudflare,,,30/09/2026 20:35
 601e08d4-d5b1-4f57-89f2-b8aa4702eb38,allie.gratis,available,26.99,29.99,high,low,5,name.com,,,17/09/2026 22:42
-664bff70-0763-4f18-b5cc-b715c7d98d77,baseball.gratis,available,23.99,23.99,high,low,8,namesilo,,,29/09/2026 01:20
+664bff70-0763-4f18-b5cc-b715c7d98d77,baseball.gratis,available,23.99,23.99,high,low,8,namesilo,,,02/10/2026 01:29
 e4624fb4-c11b-4952-bee1-632915f7c21b,sloped.gratis,available,23.99,23.99,medium,low,6,namesilo,,,07/08/2026 04:26
 174189fa-8b97-426c-9ad9-59dd925d7ada,escorted.gratis,available,18.83,18.83,high,low,8,spaceship,,,29/09/2026 17:28
 29c7caa6-caa9-4ca3-b8eb-953dbdde23ff,comparable.gratis,available,23.99,23.99,high,low,10,namesilo,,,23/09/2026 16:34
@@ -871,6 +920,7 @@ cab914cc-a6ef-41db-a2bf-a9c853152264,lived.gratis,available,24.98,31.98,high,low
 8b74f5ef-3294-4f44-b418-1412a314d68a,clements.gratis,available,18.83,18.83,high,low,8,spaceship,,,30/09/2026 13:46
 08641aba-0b44-41ad-b8dc-1525bc2dc16a,particularly.gratis,available,23.99,23.99,medium,low,12,namesilo,,,27/09/2026 08:28
 8912b418-7c1e-48de-b7c9-131eb0ba10e2,creditors.gratis,available,23.99,23.99,medium,low,9,namesilo,,,20/09/2026 15:31
+125321f3-6cf2-4e08-9107-831bdce90ecd,rehearsing.gratis,available,24.98,31.98,high,low,10,namecheap,,,01/10/2026 06:10
 0aa8ab4c-7ad9-44e5-86ba-82662547ad78,alarum.gratis,available,23.99,23.99,medium,low,6,namesilo,,,18/09/2026 02:00
 c0c7fce5-aa56-415a-9961-665f34e53dca,aqualung.gratis,available,23.99,23.99,medium,low,8,namesilo,,,19/09/2026 22:54
 65b8de40-7a8d-4cb8-b4ce-f2b8511d8789,maurer.gratis,available,18.83,18.83,medium,low,6,spaceship,,,30/09/2026 07:54
@@ -903,15 +953,17 @@ c5ea4250-7a77-45b8-b97b-d72146f26d0d,zebra.gratis,available,24.98,31.98,high,low
 142b4f45-394d-4722-8cc6-f59403593d18,production.gratis,available,24.98,31.98,high,low,10,namecheap,,,19/09/2026 18:56
 caa56953-412d-4573-90af-8c24e7f430dc,pronunciation.gratis,available,23.99,23.99,medium,low,13,namesilo,,,30/09/2026 14:07
 2638107a-b6de-4788-8b16-a22073ff5028,painterly.gratis,available,23.99,23.99,medium,low,9,namesilo,,,04/09/2026 23:08
+08a62e7a-4860-406f-b374-8c9996d6b97b,jnr.gratis,available,19.48,19.48,high,low,3,dynadot,,,01/10/2026 20:09
 68f9be12-f219-417b-b21e-53d5bd131a56,streaky.gratis,available,23.99,23.99,medium,low,7,namesilo,,,10/09/2026 22:22
 4f55b2c8-cd64-447f-ad38-cb30aea7c9fa,carter.gratis,available,23.99,23.99,high,low,6,namesilo,,,29/09/2026 06:16
 dec3f005-c802-4993-b6fd-6c2869e418b8,hay.gratis,available,23.6,23.6,high,low,3,namesilo,,,28/09/2026 14:24
 1b913d95-6020-4db1-abd3-0f1d51fc30b7,gammy.gratis,available,24.98,31.98,medium,low,5,namecheap,,,18/08/2026 20:04
+e0c3f340-ac91-4356-a0c8-335f2fd8f53d,emc.gratis,available,23.99,23.99,high,low,3,namesilo,,,01/10/2026 16:30
 e9271cf3-c190-436b-af25-68c5b29f472a,junkie.gratis,available,23.99,23.99,medium,low,6,namesilo,,,17/09/2026 06:51
 47bb41ee-f400-4130-821e-06ba7d5b7e10,nana.gratis,available,18.83,18.83,high,low,4,spaceship,,,01/10/2026 01:36
 de67809b-4239-4797-adca-223c8e6d5f30,inflicted.gratis,available,18.2,18.2,low,low,9,cloudflare,,,30/09/2026 00:06
 8768289e-1c53-48e8-bc43-0157067f8199,toroidal.gratis,available,24.98,31.98,medium,low,8,namecheap,,,11/09/2026 17:55
-927567c3-ed8f-450f-b18f-b591b6b8498b,beauty.gratis,premium,207.2,207.2,high,low,6,spaceship,,,29/09/2026 14:17
+927567c3-ed8f-450f-b18f-b591b6b8498b,beauty.gratis,premium,207.2,207.2,high,medium,6,spaceship,,,02/10/2026 00:15
 00207e55-8640-41cd-97e5-abd5bbb3774c,cocker.gratis,available,23.99,23.99,medium,low,6,namesilo,,,21/09/2026 13:01
 a0636ec6-6d14-48be-83b2-401337fc5bb2,tells.gratis,available,23.99,23.99,medium,low,5,namesilo,,,18/09/2026 14:10
 2b04efc0-d114-4bcc-82f5-5908449c3db8,sensors.gratis,available,18.2,18.2,medium,low,7,cloudflare,,,28/09/2026 09:09
@@ -947,55 +999,3 @@ de8915bd-621f-417f-8b9b-0fb5b1b404ac,deathless.gratis,available,26.99,29.99,medi
 c84f6f96-f28c-4b0b-9941-c604cd326358,obligations.gratis,available,23.99,23.99,low,low,11,namesilo,,,29/09/2026 05:17
 e2269e77-f864-4e37-af9b-2e4620e3dfc1,invertible.gratis,available,23.99,23.99,medium,low,10,namesilo,,,22/08/2026 09:00
 34bfd6fb-fc84-431e-a092-7589a8e4fe3e,kuwaiti.gratis,available,23.99,23.99,high,low,7,namesilo,,,22/08/2026 17:05
-25b2fd72-5033-4c6e-8798-f748845ce196,impartial.gratis,available,23.99,23.99,high,low,9,namesilo,,,21/08/2026 21:45
-d9e0cdc1-ccb9-4e24-b017-d8411506674a,lucas.gratis,available,23.99,23.99,high,medium,5,namesilo,,,25/09/2026 06:28
-471f1abc-bdfd-4a77-9579-620ff6bbd293,footprints.gratis,available,23.99,23.99,medium,low,10,namesilo,,,29/09/2026 23:55
-2face177-34ed-464d-a8ae-16ecbf0488ee,activase.gratis,available,24.98,31.98,medium,low,8,namecheap,,,17/09/2026 05:09
-7520750d-c120-4338-bef3-e1a8e752944b,disgraced.gratis,available,23.99,23.99,medium,low,9,namesilo,,,14/08/2026 10:21
-09c223d4-9b75-4d49-8e03-46f8589d04f6,globular.gratis,available,23.99,23.99,high,low,8,namesilo,,,08/08/2026 10:06
-46ab58e3-9dea-41d7-b2b6-e463580e359c,rant.gratis,available,24.98,31.98,high,low,4,namecheap,,,24/09/2026 03:37
-5732ce29-2445-4f64-a0bf-3b7a7ba89cce,seymour.gratis,available,23.99,23.99,high,low,7,namesilo,,,25/09/2026 07:56
-50b4afa3-784e-463d-bcba-ae58e2e004b7,comedo.gratis,available,23.99,23.99,medium,low,6,namesilo,,,24/09/2026 02:47
-a857efd1-076f-40b6-b822-6a0d100d8b70,dingy.gratis,available,23.99,23.99,medium,low,5,namesilo,,,09/08/2026 09:20
-d5006a37-758b-4cbe-992d-2a3804cad8af,sweetish.gratis,available,23.99,23.99,medium,low,8,namesilo,,,11/09/2026 05:36
-23ace2b9-21fe-4625-a506-48e9b0237ed4,synaptic.gratis,available,23.99,23.99,high,low,8,namesilo,,,11/09/2026 06:09
-065b5739-0964-4d1f-98da-7b7058f99e3e,elderly.gratis,available,23.99,23.99,high,low,7,namesilo,,,21/09/2026 22:30
-f4563350-162a-47a8-9dad-51f374f394d4,zoe.gratis,premium,102.67,102.67,high,low,3,spaceship,,,27/09/2026 18:59
-f69d2f66-2d8b-4dbc-a5af-108071970988,initiative.gratis,available,23.99,23.99,high,low,10,namesilo,,,19/09/2026 04:32
-67a10525-4678-4562-b293-5089bfa17201,tenured.gratis,available,23.99,23.99,high,low,7,namesilo,,,11/09/2026 11:43
-0bb16d67-f028-49ff-85d6-87386464ac3a,tracing.gratis,available,23.99,23.99,high,low,7,namesilo,,,30/09/2026 13:25
-fd8cb1b7-6455-4303-9372-8cd0db2eb085,campestral.gratis,available,23.99,23.99,medium,low,10,namesilo,,,11/08/2026 16:05
-cf455b90-6bd0-49b7-8ff7-d331f9917b14,bankrupt.gratis,available,23.99,23.99,high,low,8,namesilo,,,08/08/2026 13:29
-0cf0a577-b94a-40da-9a23-9cda08155446,resumed.gratis,available,23.99,23.99,medium,low,7,namesilo,,,18/09/2026 02:30
-60123432-32d1-42c8-b9ac-16792f771cd4,accountants.gratis,available,24.98,31.98,medium,low,11,namecheap,,,20/09/2026 02:26
-8e07a658-d28b-4f3c-aa83-102fd44b886f,arca.gratis,available,23.99,23.99,high,low,4,namesilo,,,20/09/2026 01:31
-a53be498-59c4-42f3-bd1b-0fd6a9e66633,automotive.gratis,available,23.99,23.99,high,low,10,namesilo,,,22/09/2026 14:07
-61dbddcb-daf3-4b00-9b37-bcacd0cce73c,oaxaca.gratis,available,24.98,31.98,high,low,6,namecheap,,,28/09/2026 06:30
-d7e35172-9679-44cf-9770-a2e560286fa5,petty.gratis,available,24.98,31.98,high,low,5,namecheap,,,24/09/2026 17:49
-5ec3e96f-3be0-442e-9305-7cbeebbbb770,conductor.gratis,available,18.2,18.2,high,low,9,cloudflare,,,29/09/2026 10:48
-a2251bfe-99b9-42fa-9ffe-defc745d54eb,stockings.gratis,available,23.99,23.99,medium,low,9,namesilo,,,17/09/2026 08:14
-527b757d-0f22-4e2d-8823-7bec2aeab27e,permeable.gratis,available,23.99,23.99,medium,low,9,namesilo,,,08/09/2026 17:36
-42d30905-14ce-4b51-8240-624f5d3a2c40,traditions.gratis,available,18.2,18.2,medium,low,10,cloudflare,,,29/09/2026 10:32
-62a3cdaa-9548-49b2-8c58-ca8acd3ffc56,arawn.gratis,available,24.98,31.98,medium,low,5,namecheap,,,20/09/2026 00:29
-6a58ccb4-7b99-4537-931e-d34eddf646c3,archean.gratis,available,23.99,23.99,medium,low,7,namesilo,,,06/08/2026 15:05
-01355ed8-34c9-4e7a-96b5-b9c2f7844fb7,limp.gratis,available,23.99,23.99,medium,low,4,namesilo,,,23/08/2026 12:39
-a9ea6746-979d-477f-9e22-3e90de4834f0,ascii.gratis,available,23.99,23.99,high,low,5,namesilo,,,18/09/2026 20:43
-1addfa75-8e55-4123-9e3b-2d44af3e6396,harkness.gratis,available,23.99,23.99,medium,low,8,namesilo,,,30/09/2026 05:36
-7cd168ee-433e-4c59-8d72-3792ecb58045,florida.gratis,premium,23.6,23.6,high,medium,7,namesilo,,,25/09/2026 05:49
-1c52cc1e-046b-443d-885c-fa9333f6220c,disappears.gratis,available,23.99,23.99,low,low,10,namesilo,,,28/09/2026 13:25
-b9608dcd-02c1-47a2-a35e-001928cf726b,kyle.gratis,available,23.99,23.99,high,low,4,namesilo,,,25/09/2026 12:33
-127ba947-0212-4238-b9ba-2985369a5a20,meyers.gratis,available,18.83,18.83,high,low,6,spaceship,,,27/09/2026 20:50
-8038d6d3-31cb-4607-90d5-a11065f2e52b,swaps.gratis,available,23.99,23.99,medium,low,5,namesilo,,,18/09/2026 22:39
-ed83654b-353b-4aba-af4a-90fa91a8217f,exclaims.gratis,available,23.99,23.99,medium,low,8,namesilo,,,19/09/2026 23:36
-df52a963-cf3c-41cd-a8ea-6367e46961de,asclepius.gratis,available,23.99,23.99,medium,low,9,namesilo,,,17/09/2026 13:21
-d08466b5-f4b7-4600-9518-e0d05ad9eae7,sleeveless.gratis,available,23.99,23.99,medium,low,10,namesilo,,,10/08/2026 19:41
-ce461346-e7b8-42e4-b9ac-e7720dc2455b,pittsburg.gratis,available,23.99,23.99,medium,low,9,namesilo,,,28/09/2026 16:44
-1934388a-fc75-439f-a9d6-8e612a5624b8,coproduction.gratis,available,18.83,18.83,medium,low,13,spaceship,,,30/09/2026 14:49
-bc7f40ef-ed2d-471c-842f-ffb2579d2a3c,orthodox.gratis,available,23.99,23.99,high,low,8,namesilo,,,14/08/2026 22:55
-6bee70cf-3751-4cac-8f8d-b25b2a4e872f,waverley.gratis,available,23.99,23.99,medium,low,8,namesilo,,,29/09/2026 09:35
-5cf0f70e-3f63-4eb8-83ac-81ed053dc405,splay.gratis,available,23.99,23.99,medium,low,5,namesilo,,,10/09/2026 16:06
-7d054d10-bb12-4424-846a-ad77e5b6d9ad,godhead.gratis,available,23.99,23.99,medium,low,7,namesilo,,,
-85028398-46c3-4d82-a9c3-424ed7864c84,basque.gratis,available,23.99,23.99,medium,low,6,namesilo,,,22/09/2026 11:41
-f19ab98f-ceb0-4b27-aee4-653088a1ff71,ncr.gratis,available,19.05,19.05,high,low,3,porkbun,,,30/09/2026 19:37
-030e2038-ff59-4722-b836-ebf66eb4ddce,coffee.gratis,premium,242,242,high,medium,6,namesilo,,,29/09/2026 10:14
-a3030429-3f6e-4c10-85a4-3b90b9ac88d8,observable.gratis,available,23.99,23.99,high,low,10,namesilo,,,03/09/2026 23:59
